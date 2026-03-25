@@ -19,9 +19,9 @@ redirect_from:
 
 I am currently a fourth-year undergraduate at the [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), majoring in Computer Science and Technology.
 
-<!-- I spent a wonderful summer at [Harvard University](https://www.harvard.edu/) as a visiting research intern, where I had the privilege of working with [Dr. Fangneng Zhan](https://fangneng-zhan.github.io/) and [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people). Prior to that, I worked with [Prof. Yao Mu](https://www.cs.sjtu.edu.cn/jiaoshiml/muyao.html). I also work closely with [Tianxing Chen](https://tianxingchen.github.io/).
+I spent a wonderful summer at [Harvard University](https://www.harvard.edu/) as a visiting research intern, where I had the privilege of working with [Dr. Fangneng Zhan](https://fangneng-zhan.github.io/) and [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people). Prior to that, I worked with [Prof. Yao Mu](https://www.cs.sjtu.edu.cn/jiaoshiml/muyao.html). I also work closely with [Tianxing Chen](https://tianxingchen.github.io/).
 
-My research interests broadly include 3D vision, Robotics, and multimodal language models. -->
+My research interests broadly include 3D vision, Robotics, and multimodal language models.
 
 
 <!-- # 🔥 News
@@ -30,7 +30,7 @@ My research interests broadly include 3D vision, Robotics, and multimodal langua
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance
@@ -86,7 +86,7 @@ Guodong Liu,Mengkang Hu,Huan-ang Gao,Kaixuan Wang,Zhixuan Liang，Yusen Qin,Xiao
 </div>
 </div>
 
- -->
+
 
 
 
