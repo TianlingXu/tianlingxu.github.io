@@ -78,8 +78,7 @@ Guodong Liu,Mengkang Hu,Huan-ang Gao,Kaixuan Wang,Zhixuan Liang，Yusen Qin,Xiao
 
 Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking
 
-Tianxing Chen,Zanxin Chen,Baijun Chen,Zijian Cai,Yibin Liu,Zixuan Li,Qiwei Liang,Xianliang Lin,Yiheng Ge,Zhenyu Gu,Weiliang DengYubin Guo,Tian Nian,Xuanbing Xie,Qiangyu Chen,Kailun Su,Tianling Xu,
-Guodong Liu,Mengkang Hu,Huan-ang Gao,Kaixuan Wang,Zhixuan Liang，Yusen Qin,Xiaokang Yang,Ping Luo,Yao Mu
+Xi Wang, Tianxing Chen, Qiaojun Yu, **Tianling Xu**, Zanxin Chen, Yiting Fu, Cewu Lu, Yao Mu, Ping Luo
 
 [**Project**](https://hytidel.github.io/video-tracking-for-axis-estimation/)
 - We present a closed-loop pipeline integrating interactive perception with online axis estimation from segmented 3D point clouds.
