@@ -30,7 +30,7 @@ My research interests broadly include 3D vision, Robotics, and multimodal langua
 
 # Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/AREA3D-pic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/AREA3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and Vision-Language Guidance
@@ -43,7 +43,7 @@ AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and 
 </div>
 
 <details class="publication-list-details">
-<summary><span class="pub-list-summary-title">Full Publication List</span><span class="pub-list-summary-hint"><span class="pub-list-hint-closed"> · Click to unfold</span><span class="pub-list-hint-open"> · Click to fold</span></span></summary>
+<summary><span class="pub-list-summary-title">Full Publication List</span><span class="pub-list-summary-hint"><span class="pub-list-hint-closed"> Click </span></span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/UniVTAC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
