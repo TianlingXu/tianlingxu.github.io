@@ -116,8 +116,30 @@ h1:before, .anchor:before {
         cursor: pointer;
         margin: 1em 0 0.5em;
         padding: 0.35em 0;
+        padding-left: 0;
         border-bottom: 1px solid #efefef;
-        /* keep native disclosure triangle; do not set list-style:none / hide ::-webkit-details-marker */
+        list-style: none;
+
+        /* Native marker is inconsistent (often missing with nested markup / themes); use a custom caret */
+        &::-webkit-details-marker {
+            display: none;
+        }
+
+        &::before {
+            content: "\25B8";
+            display: inline-block;
+            margin-right: 0.45em;
+            font-size: 0.7em;
+            line-height: 1;
+            vertical-align: 0.12em;
+            color: mix(#000, $text-color, 40%);
+            transform: rotate(0deg);
+            transition: transform 0.15s ease;
+        }
+    }
+
+    &[open] summary::before {
+        transform: rotate(90deg);
     }
 
     .pub-list-summary-title {
