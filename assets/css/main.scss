@@ -128,10 +128,11 @@ h1:before, .anchor:before {
         &::before {
             content: "\25B8";
             display: inline-block;
-            margin-right: 0.45em;
-            font-size: 0.7em;
+            margin-right: 0.5em;
+            /* was 0.7em of body-sized summary — too small next to the heading */
+            font-size: $type-size-4;
             line-height: 1;
-            vertical-align: 0.12em;
+            vertical-align: 0.08em;
             color: mix(#000, $text-color, 40%);
             transform: rotate(0deg);
             transition: transform 0.15s ease;
