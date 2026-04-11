@@ -42,7 +42,7 @@ AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and 
 </div>
 </div>
 
-<details class="publication-list-details">
+<details class="publication-list-details" open>
 <summary><span class="pub-list-summary-title">Full Publication List</span><span class="pub-list-summary-hint"><span class="pub-list-hint-closed"> · Click to unfold</span><span class="pub-list-hint-open"> · Click to fold</span></span></summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/UniVTAC.png' alt="sym" width="100%"></div></div>

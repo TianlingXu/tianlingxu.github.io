@@ -168,3 +168,9 @@ h1:before, .anchor:before {
         display: inline;
     }
 }
+
+/* Masthead nav link spacing — default is .greedy-nav .visible-links a { margin: 0 2.5rem } in _sass/_navigation.scss */
+.greedy-nav .visible-links a {
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+}
