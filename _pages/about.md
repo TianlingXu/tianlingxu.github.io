@@ -62,7 +62,7 @@ contact interactions.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/RoboTwin2.0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 RoboTwin 2.0: A Scalable Data Generator and Benchmark with
