@@ -107,9 +107,9 @@ Xi Wang, Tianxing Chen, Qiaojun Yu, **Tianling Xu**, Zanxin Chen, Yiting Fu, Cew
 - *2015.09 - 2019.06* <img src="images/logos/nus.png" alt="NUS logo" width="18" style="vertical-align: text-bottom;"> National University of Singapore -->
 
 # Working Experience
-- *2022.08 - 2026.06* Xiaomi, Algorithm Engineer Intern
-- *2015.09 - 2019.06* Harvard University, Visiting Research Intern
-- *2015.09 - 2019.06* The University of Hong Kong, Research Assistant
+- *2025.11 - 2025.12* Xiaomi, Algorithm Engineer Intern
+- *2025.06 - 2025.11* Harvard University, Visiting Research Intern
+- *2024.09 - 2025.06* The University of Hong Kong, Research Assistant
 
 <!-- # 👇 Others -->
 
