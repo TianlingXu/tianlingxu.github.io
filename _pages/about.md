@@ -21,14 +21,15 @@ I am currently a fourth-year undergraduate at the [Southern University of Scienc
 
 I spent a wonderful summer at [Harvard University](https://www.harvard.edu/) as a visiting research intern, where I had the privilege of working with [Dr. Fangneng Zhan](https://fangneng-zhan.github.io/) and [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people). Prior to that, I worked with [Prof. Yao Mu](https://www.cs.sjtu.edu.cn/jiaoshiml/muyao.html). I also work closely with [Dr. Tianxing Chen](https://tianxingchen.github.io/).
 
-My research interests broadly include 3D vision, Robotics, and multimodal language models.
+My research interests broadly include 3D vision, robotics, and multimodal language models.
 
 
 <!-- # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 My first author paper 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# Selected Publications 
+# Selected Publications
+{: #publications}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/AREA3D.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -68,8 +69,8 @@ contact interactions.
 RoboTwin 2.0: A Scalable Data Generator and Benchmark with
 Strong Domain Randomization for Robust Bimanual Robotic Manipulation
 
-Tianxing Chen,Zanxin Chen,Baijun Chen,Zijian Cai,Yibin Liu,Zixuan Li,Qiwei Liang,Xianliang Lin,Yiheng Ge,Zhenyu Gu,Weiliang DengYubin Guo,Tian Nian,Xuanbing Xie,Qiangyu Chen,Kailun Su,**Tianling Xu**,
-Guodong Liu,Mengkang Hu,Huan-ang Gao,Kaixuan Wang,Zhixuan Liang，Yusen Qin,Xiaokang Yang,Ping Luo,Yao Mu
+Tianxing Chen, Zanxin Chen, Baijun Chen, Zijian Cai, Yibin Liu, Zixuan Li, Qiwei Liang, Xianliang Lin, Yiheng Ge, Zhenyu Gu, Weiliang Deng, Yubin Guo, Tian Nian, Xuanbing Xie, Qiangyu Chen, Kailun Su, **Tianling Xu**,
+Guodong Liu, Mengkang Hu, Huan-ang Gao, Kaixuan Wang, Zhixuan Liang, Yusen Qin, Xiaokang Yang, Ping Luo, Yao Mu
 
 [**Project**](https://robotwin-platform.github.io/)
 - We present RoboTwin 2.0, a scalable framework for automated, large-scale generation of diverse and realistic data, together with unified evaluation protocols for dual-arm manipulation.
@@ -106,10 +107,12 @@ Xi Wang, Tianxing Chen, Qiaojun Yu, **Tianling Xu**, Zanxin Chen, Yiting Fu, Cew
 - *2022.08 - 2026.06* <img src="images/logos/sustech.png" alt="SUSTech logo" width="18" style="vertical-align: text-bottom;"> Southern University of Science and Technology
 - *2015.09 - 2019.06* <img src="images/logos/nus.png" alt="NUS logo" width="18" style="vertical-align: text-bottom;"> National University of Singapore -->
 
-# Working Experience
-- *2025.11 - 2025.12* Xiaomi, Algorithm Engineer Intern
-- *2025.06 - 2025.11* Harvard University, Visiting Research Intern
-- *2024.09 - 2025.06* The University of Hong Kong, Research Assistant
+# Work Experience
+{: #work-experience}
+
+- *2025.11 – 2025.12* Xiaomi — Algorithm Engineer Intern
+- *2025.06 – 2025.11* Harvard University — Visiting Research Intern
+- *2024.09 – 2025.06* The University of Hong Kong — Research Assistant
 
 <!-- # 👇 Others -->
 
