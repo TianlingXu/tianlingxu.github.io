@@ -7,8 +7,7 @@
   top: 0;
   background-color:  rgba(41, 94, 113, 0.68);
   border-bottom: 1px solid $border-color;
-  border-bottom-left-radius: 14px;
-  border-bottom-right-radius: 14px;
+  border-radius: 14px;
   -webkit-backdrop-filter: blur(16px) saturate(140%);
   backdrop-filter: blur(16px) saturate(140%);
   -webkit-animation: intro 0.3s both;
