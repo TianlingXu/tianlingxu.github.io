@@ -5,7 +5,13 @@
 .masthead {
   position: sticky;
   top: 0;
-  background-color:  rgba(41, 94, 113, 0.77);
+  background-color: rgba(41, 94, 113, 0.77);
+  background: linear-gradient(
+    135deg,
+    rgba(41, 94, 113, 0.82) 0%,
+    rgba(41, 94, 113, 0.62) 52%,
+    rgba(27, 66, 81, 0.78) 100%
+  );
   border-bottom: 1px solid $border-color;
   border-radius: 14px;
   -webkit-backdrop-filter: blur(16px) saturate(140%);
