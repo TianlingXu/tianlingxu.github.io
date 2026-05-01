@@ -47,6 +47,22 @@ AREA3D: Active Reconstruction Agent with Unified Feed-Forward 3D Perception and 
 <details class="publication-list-details" open>
 <summary><span class="pub-list-summary-title">Full Publication List</span></summary>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/RoboTwin2.0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+RoboTwin 2.0: A Scalable Data Generator and Benchmark with
+Strong Domain Randomization for Robust Bimanual Robotic Manipulation
+
+<!-- Tianxing Chen, Zanxin Chen, Baijun Chen, Zijian Cai, Yibin Liu, Zixuan Li, Qiwei Liang, Xianliang Lin, Yiheng Ge, Zhenyu Gu, Weiliang Deng, Yubin Guo, Tian Nian, Xuanbing Xie, Qiangyu Chen, Kailun Su, **Tianling Xu**,
+Guodong Liu, Mengkang Hu, Huan-ang Gao, Kaixuan Wang, Zhixuan Liang, Yusen Qin, Xiaokang Yang, Ping Luo, Yao Mu -->
+
+[**Project**](https://robotwin-platform.github.io/)
+- We present RoboTwin 2.0, a scalable framework for automated, large-scale generation of diverse and realistic data, together with unified evaluation protocols for dual-arm manipulation.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/UniVTAC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,20 +80,6 @@ contact interactions.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/RoboTwin2.0.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-RoboTwin 2.0: A Scalable Data Generator and Benchmark with
-Strong Domain Randomization for Robust Bimanual Robotic Manipulation
-
-Tianxing Chen, Zanxin Chen, Baijun Chen, Zijian Cai, Yibin Liu, Zixuan Li, Qiwei Liang, Xianliang Lin, Yiheng Ge, Zhenyu Gu, Weiliang Deng, Yubin Guo, Tian Nian, Xuanbing Xie, Qiangyu Chen, Kailun Su, **Tianling Xu**,
-Guodong Liu, Mengkang Hu, Huan-ang Gao, Kaixuan Wang, Zhixuan Liang, Yusen Qin, Xiaokang Yang, Ping Luo, Yao Mu
-
-[**Project**](https://robotwin-platform.github.io/)
-- We present RoboTwin 2.0, a scalable framework for automated, large-scale generation of diverse and realistic data, together with unified evaluation protocols for dual-arm manipulation.
-</div>
-</div>
-
 
 
 
@@ -86,7 +88,7 @@ Guodong Liu, Mengkang Hu, Huan-ang Gao, Kaixuan Wang, Zhixuan Liang, Yusen Qin, 
 
 Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking
 
-Xi Wang, Tianxing Chen, Qiaojun Yu, **Tianling Xu**, Zanxin Chen, Yiting Fu, Cewu Lu, Yao Mu, Ping Luo
+Xi Wang*, Tianxing Chen*, Qiaojun Yu*, **Tianling Xu**, Zanxin Chen, Yiting Fu, Cewu Lu, Yao Mu, Ping Luo
 
 [**Project**](https://hytidel.github.io/video-tracking-for-axis-estimation/)
 - We present a closed-loop pipeline integrating interactive perception with online axis estimation from segmented 3D point clouds.
