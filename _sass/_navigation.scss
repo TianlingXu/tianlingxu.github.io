@@ -176,6 +176,7 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
+  -webkit-tap-highlight-color: transparent;
 
   a {
     display: block;
@@ -191,8 +192,8 @@
     &:focus,
     &:focus-visible,
     &:active {
-      outline: none;
-      box-shadow: none;
+      outline: none !important;
+      box-shadow: none !important;
     }
   }
 
@@ -210,8 +211,8 @@
     &:focus,
     &:focus-visible,
     &:active {
-      outline: none;
-      box-shadow: none;
+      outline: none !important;
+      box-shadow: none !important;
     }
   }
 
