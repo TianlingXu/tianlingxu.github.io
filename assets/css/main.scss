@@ -174,3 +174,18 @@ h1:before, .anchor:before {
     margin-left: 3.5rem;
     margin-right: 3.5rem;
 }
+
+/* Remove browser default focus/tap highlight rings */
+a:focus,
+a:focus-visible,
+a:active,
+button:focus,
+button:focus-visible,
+button:active,
+summary:focus,
+summary:focus-visible,
+summary:active {
+    outline: none !important;
+    box-shadow: none !important;
+    -webkit-tap-highlight-color: transparent;
+}
