@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: transparent;
   -webkit-tap-highlight-color: transparent;
   font-family: $global-font-family;
 
@@ -219,6 +219,7 @@
 
   .visible-links {
     display: table;
+    background: transparent;
 
     li {
       display: table-cell;
@@ -242,6 +243,7 @@
     a {
       position: relative;
       margin: 0 2.5rem;
+      background: transparent;
 
       &:before {
         content: "";
