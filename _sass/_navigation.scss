@@ -187,6 +187,13 @@
     &:hover {
       color: $masthead-link-color-hover;
     }
+
+    &:focus,
+    &:focus-visible,
+    &:active {
+      outline: none;
+      box-shadow: none;
+    }
   }
 
   button {
@@ -199,6 +206,13 @@
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
+
+    &:focus,
+    &:focus-visible,
+    &:active {
+      outline: none;
+      box-shadow: none;
+    }
   }
 
   .visible-links {

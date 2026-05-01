@@ -88,7 +88,7 @@ contact interactions.
 
 Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking
 
-Xi Wang\*, Tianxing Chen\*, Qiaojun Yu\*, **Tianling Xu**, Zanxin Chen, Yiting Fu, Cewu Lu, Yao Mu, Ping Luo
+Xi Wang\*, Tianxing Chen\*, Qiaojun Yu\*, **Tianling Xu**, Zanxin Chen, Yiting Fu, Cewu Lu†, Yao Mu†, Ping Luo†
 
 [**Project**](https://hytidel.github.io/video-tracking-for-axis-estimation/)
 - We present a closed-loop pipeline integrating interactive perception with online axis estimation from segmented 3D point clouds.

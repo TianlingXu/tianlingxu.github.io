@@ -3,9 +3,17 @@
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
+  {% assign avatar_back_text = author.avatar_back_text | default: "Hi, thanks for visiting!" %}
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    <div class="author__avatar-flip">
+      <div class="author__avatar-front">
+        <img src="{{ author.avatar }}" alt="{{ author.name }}">
+      </div>
+      <div class="author__avatar-back" aria-hidden="true">
+        <span>{{ avatar_back_text }}</span>
+      </div>
+    </div>
   </div>
 
   <div class="author__content">

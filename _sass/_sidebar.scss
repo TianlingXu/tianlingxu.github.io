@@ -91,9 +91,66 @@
     height: auto;
   }
 
-  img {
+  .author__avatar-flip {
+    position: relative;
+    width: 75px;
+    height: 75px;
+    perspective: 900px;
+
+    @include breakpoint($large) {
+      width: 185px;
+      height: 185px;
+    }
+  }
+
+  .author__avatar-front,
+  .author__avatar-back {
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform 0.55s ease;
+    overflow: hidden;
+  }
+
+  .author__avatar-front {
+    transform: rotateY(0deg);
+  }
+
+  .author__avatar-back {
+    transform: rotateY(180deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0.8em;
+    color: #fff;
+    background: $primary-color;
+    font-size: $type-size-6;
+    line-height: 1.35;
+
+    @include breakpoint($large) {
+      padding: 1em;
+      font-size: $type-size-5;
+      border: 1px solid $border-color;
+    }
+  }
+
+  &:hover .author__avatar-front {
+    transform: rotateY(180deg);
+  }
+
+  &:hover .author__avatar-back {
+    transform: rotateY(360deg);
+  }
+
+  .author__avatar-front img {
     max-width: 175px;
-    min-width: 75px;
+    min-width: 100%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     border-radius: 50%;
 
     @include breakpoint($large) {
