@@ -96,6 +96,9 @@
     width: 75px;
     height: 75px;
     perspective: 900px;
+    border-radius: 50%;
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.16);
+    transition: box-shadow 0.25s ease;
 
     @include breakpoint($large) {
       width: 185px;
@@ -147,6 +150,10 @@
 
   &:hover .author__avatar-flip-inner {
     transform: rotateY(180deg);
+  }
+
+  &:hover .author__avatar-flip {
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
   }
 
   .author__avatar-front img {
