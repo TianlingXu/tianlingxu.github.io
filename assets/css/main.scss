@@ -189,3 +189,12 @@ summary:active {
     box-shadow: none !important;
     -webkit-tap-highlight-color: transparent;
 }
+
+/* Force key UI accents to primary blue */
+.greedy-nav button {
+    background-color: #63aee8 !important;
+}
+
+.author__avatar-back {
+    background: #63aee8 !important;
+}
