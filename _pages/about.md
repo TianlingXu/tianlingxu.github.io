@@ -19,9 +19,9 @@ redirect_from:
  
 # Biography
 
-I am currently a fourth-year undergraduate at the [SUSTech](https://www.sustech.edu.cn/en/) <img src="images/logos/sustech.png" alt="SUSTech logo" width="18" style="vertical-align: text-bottom;">, majoring in Computer Science and Technology.
+I am currently a fourth-year undergraduate at the [SUSTech](https://www.sustech.edu.cn/en/) <img src="images/logos/sustech.png" alt="SUSTech logo" width="20" style="vertical-align: text-bottom;">, majoring in Computer Science and Technology.
 
-I spent a wonderful summer at [Harvard University](https://www.harvard.edu/) <img src="images/logos/harvard.png" alt="Harvard logo" width="18" style="vertical-align: text-bottom;"> as a visiting research intern, where I had the privilege of working with [Prof. Fangneng Zhan](https://fnzhan.com/) and [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people). Prior to that, I worked with [Prof. Yao Mu](https://www.cs.sjtu.edu.cn/jiaoshiml/muyao.html).
+I spent a wonderful summer at [Harvard University](https://www.harvard.edu/) <img src="images/logos/harvard.png" alt="Harvard logo" width="19" style="vertical-align: text-bottom;"> as a visiting research intern, where I had the privilege of working with [Prof. Fangneng Zhan](https://fnzhan.com/) and [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people). Prior to that, I worked with [Prof. Yao Mu](https://www.cs.sjtu.edu.cn/jiaoshiml/muyao.html).
  <!-- I also work closely with [Dr. Tianxing Chen](https://tianxingchen.github.io/). -->
 
 My research interests span computer vision and robotics, with a particular focus on simulation and 3D vision.
