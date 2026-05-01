@@ -24,9 +24,9 @@ author:
   name             : "Tianling Xu"
   avatar           : "images/xutianling.jpg"
   location         : "Shenzhen, China"
-  googlescholar    : ""
+  googlescholar    : 
   email            : "xutianling245@gmail.com"
-  github           : # e.g., "github username"
+  github           : "https://github.com/TianlingXu" # e.g., "github username"
   linkedin         : # e.g., "linkedin username"
   wechat           : 
   avatar_back_text: "Feel free to contact me!"

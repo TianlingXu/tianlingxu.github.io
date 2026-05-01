@@ -15,12 +15,12 @@ $indent-var                 : 0.5em;
 /* system typefaces */
 // $serif                      : Georgia, Times, serif;
 // $sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
-$serif                      : Cambria, Georgia, "Times New Roman", serif;
-$sans-serif                 : Cambria, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : $sans-serif-narrow;
+$header-font-family         : $sans-serif-narrow;
+$caption-font-family        : $sans-serif-narrow;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -37,9 +37,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : $sans-serif-narrow;
+$header-font-family         : $sans-serif-narrow;
+$caption-font-family        : $sans-serif-narrow;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -100,7 +100,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $primary-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;

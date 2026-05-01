@@ -1,6 +1,6 @@
 # main links — anchors match _pages/about.md (homepage permalink: /)
 main:
-  - title: "About Me"
+  - title: "Biography"
     url: "/#about-me"
 
   - title: "Publications"
