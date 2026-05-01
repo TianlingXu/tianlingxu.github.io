@@ -97,8 +97,7 @@
     height: 75px;
     perspective: 900px;
     border-radius: 50%;
-    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.16);
-    transition: box-shadow 0.25s ease;
+    overflow: visible;
 
     @include breakpoint($large) {
       width: 185px;
@@ -113,6 +112,7 @@
     border-radius: 50%;
     transform-style: preserve-3d;
     transition: transform 0.55s ease;
+    filter: drop-shadow(0 8px 22px rgba(0, 0, 0, 0.16));
   }
 
   .author__avatar-front,
@@ -152,8 +152,8 @@
     transform: rotateY(180deg);
   }
 
-  &:hover .author__avatar-flip {
-    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.22);
+  &:hover .author__avatar-flip-inner {
+    filter: drop-shadow(0 12px 28px rgba(0, 0, 0, 0.22));
   }
 
   .author__avatar-front img {
