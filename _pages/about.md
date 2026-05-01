@@ -68,7 +68,7 @@ Guodong Liu, Mengkang Hu, Huan-ang Gao, Kaixuan Wang, Zhixuan Liang, Yusen Qin, 
 
 UniVTAC: A Unified Simulation Platform for Visuo-Tactile Manipulation Data Generation, Learning, and Benchmarking
 
-Baijun Chen, Weijie Wan, Tianxing Chen, Xianda Guo, Congsheng Xu, Yuanyang Qi, Haojie Zhang, Longyan Wu, **Tianling Xu**, Zixuan Li, Yizhe Wu, Rui Li, Xiaokang Yang, Ping Luo, Wei Sui, and Yao Mu
+Baijun Chen\*, Weijie Wan\*, Tianxing Chen\*, Xianda Guo\*, Congsheng Xu, Yuanyang Qi, Haojie Zhang, Longyan Wu, **Tianling Xu**, Zixuan Li, Yizhe Wu, Rui Li, Xiaokang Yang, Ping Luo, Wei Sui† , and Yao Mu† 
 
 [**Project**](https://univtac.github.io/)
 - We propose UniVTAC, a simulation-based visuo-tactile data synthesis
@@ -88,7 +88,7 @@ contact interactions.
 
 Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking
 
-Xi Wang*, Tianxing Chen*, Qiaojun Yu*, **Tianling Xu**, Zanxin Chen, Yiting Fu, Cewu Lu, Yao Mu, Ping Luo
+Xi Wang\*, Tianxing Chen\*, Qiaojun Yu\*, **Tianling Xu**, Zanxin Chen, Yiting Fu, Cewu Lu, Yao Mu, Ping Luo
 
 [**Project**](https://hytidel.github.io/video-tracking-for-axis-estimation/)
 - We present a closed-loop pipeline integrating interactive perception with online axis estimation from segmented 3D point clouds.
