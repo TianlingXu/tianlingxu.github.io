@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a fourth-year undergraduate at the [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), majoring in Computer Science and Technology.
 
-I spent a wonderful summer at [Harvard University](https://www.harvard.edu/) as a visiting research intern, where I had the privilege of working with [Dr. Fangneng Zhan](https://fnzhan.com/) and [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people). Prior to that, I worked with [Prof. Yao Mu](https://www.cs.sjtu.edu.cn/jiaoshiml/muyao.html).
+I spent a wonderful summer at [Harvard University](https://www.harvard.edu/) as a visiting research intern, where I had the privilege of working with [Prof. Fangneng Zhan](https://fnzhan.com/) and [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people). Prior to that, I worked with [Prof. Yao Mu](https://www.cs.sjtu.edu.cn/jiaoshiml/muyao.html).
  <!-- I also work closely with [Dr. Tianxing Chen](https://tianxingchen.github.io/). -->
 
 My research interests broadly include 3D vision, robotics, and multimodal language models.
