@@ -23,6 +23,7 @@ I am currently a fourth-year undergraduate at the [SUSTech](https://www.sustech.
 
 I spent a wonderful summer at [Harvard University](https://www.harvard.edu/) <img src="images/logos/harvard.png" alt="Harvard logo" width="25" style="vertical-align: text-bottom;"> as a visiting research intern, where I had the privilege of working with [Prof. Fangneng Zhan](https://fnzhan.com/) and [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people). Prior to that, I worked with [Prof. Yao Mu](https://www.cs.sjtu.edu.cn/jiaoshiml/muyao.html).
  <!-- I also work closely with [Dr. Tianxing Chen](https://tianxingchen.github.io/). -->
+
 I have also gained industry experience through an internship at Xiaomi <img src="images/logos/xiaomi.png" alt="Harvard logo" width="25" style="vertical-align: text-bottom;">.
 
 My research interests span computer vision and robotics, with a particular focus on simulation and 3D vision.
