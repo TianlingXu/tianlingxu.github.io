@@ -198,3 +198,63 @@ summary:active {
 .author__avatar-back {
     background: rgb(41, 94, 113) !important;
 }
+
+/* ==========================================================================
+   Custom Link Hover Effects
+   ========================================================================== */
+
+/* Add responsive hover effect to all links in page content */
+.page__content a,
+.paper-box-text a,
+.bio a,
+.greedy-nav .visible-links a {
+  position: relative;
+  transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.page__content a:hover,
+.paper-box-text a:hover,
+.bio a:hover {
+  color: $link-color-hover;
+  transform: translateY(-1px);
+}
+
+/* Add underline animation effect for links */
+.page__content a:not(.btn):not(.project-link):hover::after,
+.paper-box-text a:not(.btn):not(.project-link):hover::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: $link-color-hover;
+  transform: scaleX(1);
+  transition: transform 0.2s ease-in-out;
+}
+
+/* Project links hover effect */
+.paper-box-text a[href*="Project"]:hover {
+  color: mix(#000, $link-color, 15%);
+  transform: translateY(-2px);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* ==========================================================================
+   Navigation Bar Font Size Increase
+   ========================================================================== */
+
+/* Increase masthead navigation font size */
+.masthead__inner-wrap {
+  font-size: 1.1em;
+}
+
+.greedy-nav .visible-links a {
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+/* Adjust padding for larger font */
+.greedy-nav a {
+  padding: 0.8rem 0;
+}
