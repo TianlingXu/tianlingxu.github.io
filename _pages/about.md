@@ -126,14 +126,7 @@ Xi Wang\*, Tianxing Chen\*, Qiaojun Yu\*, **Tianling Xu**, Zanxin Chen, Yiting F
 # Visitors
 {: #visitors}
 
-<div style="text-align: center; margin-top: 1rem;">
-  <a href="https://flagcounter.com">
-    <img src="https://s01.flagcounter.com/count/2gtx/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_30/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" 
-         alt="Flag Counter" 
-         border="0"
-         style="max-width: 100%;">
-  </a>
-</div>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=UPC5SkZbTESCudpR0wHMP0aSDeIuolS1uhp2TCTtDSw&cl=ffffff&w=a"></script>
 
 <!-- # 👇 Others -->
 
