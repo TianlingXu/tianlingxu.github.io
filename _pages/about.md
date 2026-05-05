@@ -126,7 +126,7 @@ Xi Wang\*, Tianxing Chen\*, Qiaojun Yu\*, **Tianling Xu**, Zanxin Chen, Yiting F
 # Visitors
 {: #visitors}
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=UPC5SkZbTESCudpR0wHMP0aSDeIuolS1uhp2TCTtDSw&ct=792020'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=117661&w=a&t=n&d=UPC5SkZbTESCudpR0wHMP0aSDeIuolS1uhp2TCTtDSw&ct=792020&co=fffbc4'></script>
 
 <!-- # 👇 Others -->
 
