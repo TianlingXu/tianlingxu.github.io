@@ -26,7 +26,7 @@ I spent a wonderful summer at [Harvard University](https://www.harvard.edu/) <im
 
 I have also gained industry experience through an internship at [Xiaomi](https://www.mi.com/index.html) <img src="images/logos/xiaomi.png" alt="Harvard logo" width="25" style="vertical-align: text-bottom;"> during undergraduate life.
 
-My research interests span computer vision and robotics, with a particular focus on simulation and 3D vision.
+My research interests span computer vision and robotics, with a particular focus on 3D vision. I'm excited to explore topics on simulation and world model.
 
 I’m happy to discuss any collaboration. Don’t hesitate to contact me.
 
