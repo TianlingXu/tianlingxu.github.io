@@ -66,7 +66,7 @@ Guodong Liu, Mengkang Hu, Huan-ang Gao, Kaixuan Wang, Zhixuan Liang, Yusen Qin, 
 <!-- [**Project**](https://robotwin-platform.github.io/)
 - We present RoboTwin 2.0, a scalable framework for automated, large-scale generation of diverse and realistic data, together with unified evaluation protocols for dual-arm manipulation.
 </div>
-</div> --> -->
+</div> --> 
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/UniVTAC.png' alt="sym" width="100%"></div></div>
