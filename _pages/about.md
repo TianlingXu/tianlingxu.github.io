@@ -35,7 +35,7 @@ I’m happy to discuss any collaboration. Don’t hesitate to contact me.
 - *2026.02*: &nbsp;🎉🎉 My first author paper 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# Selected Publications
+<!-- # Selected Publications
 {: #publications}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/AREA3D.png' alt="sym" width="100%"></div></div>
@@ -66,10 +66,10 @@ Guodong Liu, Mengkang Hu, Huan-ang Gao, Kaixuan Wang, Zhixuan Liang, Yusen Qin, 
 [**Project**](https://robotwin-platform.github.io/)
 - We present RoboTwin 2.0, a scalable framework for automated, large-scale generation of diverse and realistic data, together with unified evaluation protocols for dual-arm manipulation.
 </div>
-</div>
+</div> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/UniVTAC.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/UniVTAC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 UniVTAC: A Unified Simulation Platform for Visuo-Tactile Manipulation Data Generation, Learning, and Benchmarking
@@ -82,14 +82,14 @@ platform that supports three commonly used visuo-tactile sensors
 and enables scalable and controllable generation of informative
 contact interactions. 
 </div>
-</div>
+</div> -->
 
 
 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2025 Workshop RINO</div><img src='images/Articulated-Manipulation.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2025 Workshop RINO</div><img src='images/Articulated-Manipulation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking
@@ -99,7 +99,7 @@ Xi Wang\*, Tianxing Chen\*, Qiaojun Yu\*, **Tianling Xu**, Zanxin Chen, Yiting F
 [**Project**](https://hytidel.github.io/video-tracking-for-axis-estimation/)
 - We present a closed-loop pipeline integrating interactive perception with online axis estimation from segmented 3D point clouds.
 </div>
-</div>
+</div> -->
 
 </details>
 
