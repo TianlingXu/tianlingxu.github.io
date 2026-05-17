@@ -3,8 +3,8 @@ main:
   - title: "Biography"
     url: "/#about-me"
 
-  - title: "Publications"
-    url: "/#publications"
+  # - title: "Publications"
+  #   url: "/#publications"
 
   - title: "Work Experience"
     url: "/#work-experience"
