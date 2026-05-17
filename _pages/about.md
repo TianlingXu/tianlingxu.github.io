@@ -63,10 +63,10 @@ Strong Domain Randomization for Robust Bimanual Robotic Manipulation
 <!-- Tianxing Chen, Zanxin Chen, Baijun Chen, Zijian Cai, Yibin Liu, Zixuan Li, Qiwei Liang, Xianliang Lin, Yiheng Ge, Zhenyu Gu, Weiliang Deng, Yubin Guo, Tian Nian, Xuanbing Xie, Qiangyu Chen, Kailun Su, **Tianling Xu**,
 Guodong Liu, Mengkang Hu, Huan-ang Gao, Kaixuan Wang, Zhixuan Liang, Yusen Qin, Xiaokang Yang, Ping Luo, Yao Mu -->
 
-[**Project**](https://robotwin-platform.github.io/)
+<!-- [**Project**](https://robotwin-platform.github.io/)
 - We present RoboTwin 2.0, a scalable framework for automated, large-scale generation of diverse and realistic data, together with unified evaluation protocols for dual-arm manipulation.
 </div>
-</div> -->
+</div> --> -->
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/UniVTAC.png' alt="sym" width="100%"></div></div>
